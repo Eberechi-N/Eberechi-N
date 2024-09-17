@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Eby
+# 👋 Hi, I’m Eby
 
 - 👀 I’m interested in AI/ML and learning more about it!
 
@@ -28,8 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberechi-nwosu/)
 
 ## 🖥️ GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eberechi-N&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eberechi-N&layout=compact&hide_border=true&theme=radical)
 
 <!-- Optional: Add a footer or any other sections -->
@@ -40,4 +38,5 @@
 <!---
 Eberechi-N/Eberechi-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eberechi-N&show_icons=true&hide_border=true&theme=radical)
 --->
