@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Eby
+# 👋 Hi, I’m Eby, Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberechi-nwosu/)
 
 - 👀 I’m interested in AI/ML and learning more about it!
 
@@ -22,11 +23,7 @@
 - 🌱 I’m currently working on [UI Library Interface](https://github.com/your-username/project-link)
 
 - 💬 Ask me about anything related to [LLM's, OOP and VM's!]
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberechi-nwosu/)
-
+  
 ## 🖥️ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eberechi-N&layout=compact&hide_border=true&theme=radical)
 
