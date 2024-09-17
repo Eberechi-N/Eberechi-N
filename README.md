@@ -1,10 +1,6 @@
-#👋 Hi, I’m @Eberechi-N
-
+#👋 Hi, I’m @Eby
 
 - 👀 I’m interested in AI/ML and learning more about it!
-
-
-## 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
@@ -33,8 +29,8 @@
 
 ## 🖥️ GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eberechi-N&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eberechi-N&layout=compact&hide_border=true&theme=radical)
 
 <!-- Optional: Add a footer or any other sections -->
 
