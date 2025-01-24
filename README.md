@@ -22,9 +22,8 @@
 
 
 - 🌱 I’m currently working on **[My Portfolio](https://github.com/Eberechi-N/MyWebsite)** – *In Process*: I'm redoing the entire website to improve the design, functionality, and content. Stay tuned for updates!
-- 🌱 I’m currently working on [LSU Foundation Project](https://github.com/your-username/project-link)
-- 🌱 I’m currently working on [3380 C# Project](https://github.com/CSC-3380-Fall-2024/Team-7)
-- 🌱 I’m currently working on [UI Library Interface](https://github.com/your-username/project-link)
+- 🌱 I’m currently working to learn flutter!
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eberechi-N&show_icons=true&locale=en&layout=compact" alt="=Eberechi-N" /></p>
 
